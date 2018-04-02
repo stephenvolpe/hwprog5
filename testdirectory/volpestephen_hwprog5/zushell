@@ -1,0 +1,10 @@
+Aprog ../../adotout4         zzzin        xout4         xlog4
+Aprog ../../adotout5         zzzin        xout5         xlog5
+Aprog ../../adotout6         zzz6in     xout6         xlog6
+Aprog ../../adotoutdata      zzzdummy     ydataout      ydatalog
+Aprog ../../adotoutfib       zzzdummy     yfibout       yfiblog
+Aprog ../../adotoutloop      zzzdummy     yloopout      ylooplog
+Aprog ../../adotoutreadwrite yreadwritein yreadwriteout yreadwritelog
+Aprog ../../adotoutsquares   zzzdummy     ysquaresout   ysquareslog
+
+sh zushellcompare
